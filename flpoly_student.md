@@ -1,13 +1,13 @@
-## James Crespo
+# Introduction to Data Science
+
+## James Crespo - jcrespo1881@floridapoly.edu
 
 ### Summer 2021
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
-
-- Pre-Calculus
-
-- Introduction to Data Science
-
+|_Course name_                |**Course Number**|**Course Prefix**|Credits|
+|:----------------------------|:----------------|:----------------|:------|
+|Pre-Calculus                 |1147             |MAC              |4      |
+|Introduction to Data Science |2073             |COP              |3      |
 
 **Hobbies:**
 
@@ -17,7 +17,8 @@ I am _passionate about_:
 
 - Music
 
-
 ***
 
-> Last modified: 2021/07/07
+> Last modified: 2021/07/20
+
+
